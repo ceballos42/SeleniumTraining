@@ -15,12 +15,13 @@ After completing the course and create/reviewing the exercise, you will ask to p
 ## Exercises
 ### Exercise 1
 Take a look at [Login.java](https://github.com/ceballos42/SeleniumTraining/blob/master/src/test/java/swaglabs/Login.java)  and create another test to access the shopping portal and display in the console all the products name.
-
+![img.png](pictures/itemList.png)
 ### Exercise 2
 Login into the Swag Labs, select three articles in the shopping cart, and verify the shopping cart icon is correctly updated.
-
+![img.png](pictures/shopingCartIcon.png)
 ### Exercise 3
 Login into the Swag Labs shopping cart, and organize the product list in reverse order by clicking in the filter Name (Z to A).
+![img.png](pictures/reverseOrder.png)
 
 ### Exercise 4
 Login into the Swag Labs and select the following articles:
@@ -28,7 +29,8 @@ Sauce Labs Fleece Jacket
 Sauce Labs Bike Light
 Sauce Labs Bolt T-Shirt
 
-Click on Shopping Cart Icon and verify "Checkout" CTN is displayed.
+Click on Shopping Cart Icon and verify "Checkout" CTA is displayed.
+![img.png](pictures/checkOutCTA.png)
 
 #
 **Disclaimer:**  This repository is based on the Andrejs  Selenium 4 Fundamentals with Java course
